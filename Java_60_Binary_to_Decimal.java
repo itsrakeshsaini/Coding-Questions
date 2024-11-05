@@ -8,6 +8,5 @@ public class Java_60_Binary_to_Decimal {
     }
 
     public static void binaryconnvert(int d){
-
     }
 }
